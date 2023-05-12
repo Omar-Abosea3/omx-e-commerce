@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/omx-e-commerce/static/css/main.cfdfa5ad.css",
-    "main.js": "/omx-e-commerce/static/js/main.1dacf743.js",
+    "main.js": "/omx-e-commerce/static/js/main.7fec8f7b.js",
     "static/js/787.85614a1b.chunk.js": "/omx-e-commerce/static/js/787.85614a1b.chunk.js",
     "static/media/gray-concrete-wall.jpg": "/omx-e-commerce/static/media/gray-concrete-wall.bd2d2a3dcfaef4a46d7d.jpg",
     "static/media/5.jpg": "/omx-e-commerce/static/media/5.576de7f76e0e1649c8e5.jpg",
@@ -37,11 +37,11 @@
     "static/media/slick.woff": "/omx-e-commerce/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/omx-e-commerce/index.html",
     "main.cfdfa5ad.css.map": "/omx-e-commerce/static/css/main.cfdfa5ad.css.map",
-    "main.1dacf743.js.map": "/omx-e-commerce/static/js/main.1dacf743.js.map",
+    "main.7fec8f7b.js.map": "/omx-e-commerce/static/js/main.7fec8f7b.js.map",
     "787.85614a1b.chunk.js.map": "/omx-e-commerce/static/js/787.85614a1b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cfdfa5ad.css",
-    "static/js/main.1dacf743.js"
+    "static/js/main.7fec8f7b.js"
   ]
 }
