@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/omx-e-commerce/static/css/main.cfdfa5ad.css",
-    "main.js": "/omx-e-commerce/static/js/main.ec3067a5.js",
+    "main.js": "/omx-e-commerce/static/js/main.1dacf743.js",
     "static/js/787.85614a1b.chunk.js": "/omx-e-commerce/static/js/787.85614a1b.chunk.js",
     "static/media/gray-concrete-wall.jpg": "/omx-e-commerce/static/media/gray-concrete-wall.bd2d2a3dcfaef4a46d7d.jpg",
     "static/media/5.jpg": "/omx-e-commerce/static/media/5.576de7f76e0e1649c8e5.jpg",
@@ -25,7 +25,6 @@
     "static/media/electoronix3.jpeg": "/omx-e-commerce/static/media/electoronix3.95a0111a10d34775aa30.jpeg",
     "static/media/women.jpeg": "/omx-e-commerce/static/media/women.ab8863d7a18603aa4ac0.jpeg",
     "static/media/electoronix2.jpeg": "/omx-e-commerce/static/media/electoronix2.76542d8fb77264779e3c.jpeg",
-    "static/media/Network-error.png": "/omx-e-commerce/static/media/Network-error.a1ec98afb7cdb33dff63.png",
     "static/media/electoronix4.jpeg": "/omx-e-commerce/static/media/electoronix4.261299a784c2cd07ea81.jpeg",
     "static/media/omx-ecommerce-low-resolution-logo-color-on-transparent-background.png": "/omx-e-commerce/static/media/omx-ecommerce-low-resolution-logo-color-on-transparent-background.dc7e7e6f0a975d5f4452.png",
     "static/media/fa-regular-400.woff2": "/omx-e-commerce/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
@@ -38,11 +37,11 @@
     "static/media/slick.woff": "/omx-e-commerce/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/omx-e-commerce/index.html",
     "main.cfdfa5ad.css.map": "/omx-e-commerce/static/css/main.cfdfa5ad.css.map",
-    "main.ec3067a5.js.map": "/omx-e-commerce/static/js/main.ec3067a5.js.map",
+    "main.1dacf743.js.map": "/omx-e-commerce/static/js/main.1dacf743.js.map",
     "787.85614a1b.chunk.js.map": "/omx-e-commerce/static/js/787.85614a1b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cfdfa5ad.css",
-    "static/js/main.ec3067a5.js"
+    "static/js/main.1dacf743.js"
   ]
 }
